@@ -1,2 +1,2 @@
-juegodelavida
+Juego de la Vida
 =============
